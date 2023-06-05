@@ -16,7 +16,7 @@ const LandingSection = () => (
     backgroundColor="#2A4365"
   >
     <VStack spacing='24px'>
-      <Avatar size='2xl' name={greeting} src='https://bit.ly/sage-adebayo' />
+      <Avatar size='2xl' name={greeting} src='https://i.pravatar.cc/150?img=7' />
       <Text>{greeting}</Text>
       <Heading>{bio1}</Heading>
       <Heading>{bio2}</Heading>
